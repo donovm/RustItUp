@@ -1,0 +1,25 @@
+[
+	{
+		"id": 1,
+		"name": "Apple",
+		"description": "An apple a day keeps the doctor away",
+		"image": "/products/apple.jpg",
+		"price": 3.65
+	},
+	{
+		"id": 2,
+		"name": "Banana",
+		"description": "An old banana leaf was once young and green",
+		"image": "/products/banana.jpg",
+		"price": 7.99
+	},
+	{
+		"id": 3,
+		"name": "Lemon",
+		"description": "Lemon is a rich source of vitamin C and contains numerous phytochemicals, including polyphenols, terpenes, and tannins.",
+		"image": "/products/lemon.jpg",
+		"price": 1.20
+	}
+
+]
+
